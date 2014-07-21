@@ -1,0 +1,33 @@
+{
+    "employee": [
+        {
+            "id": 101,
+            "name": "Amar",
+            "city": "Dausa",
+            "gender": "M",
+            "age": 21
+        },
+        {
+            "id": 102,
+            "name": "Sunil",
+            "city": "Bharatpur",
+            "gender": "M",
+            "age": 22
+        },
+        {
+            "id": 103,
+            "name": "Uday",
+            "city": "Bharatpur",
+            "gender": "M",
+            "age": 22
+        },
+     
+        {
+            "id": 104,
+            "name": "Rahul",
+            "city": "Alwar",
+            "gender": "M",
+            "age": 21
+        }
+    ]
+}

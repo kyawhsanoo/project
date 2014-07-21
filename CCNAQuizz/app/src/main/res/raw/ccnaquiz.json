@@ -1,0 +1,54 @@
+{
+    "quizz": [
+        {
+            "topic": "0",
+            "question": [
+                {
+                    "question_id": "1",
+                    "question_name": "What protocol does PPP use to identify the Network layer protocol?",
+                    "option_a": "NCP",
+                    "option_b": "",
+                    "option_c": "",
+                    "option_d": "",
+                    "option_e": "",
+                    "answer": "A"
+                },
+                {
+                    "question_id": "2",
+                    "question_name": "What protocol does PPP use to identify the Network layer protocol?",
+                    "option_a": "NCP",
+                    "option_b": "",
+                    "option_c": "",
+                    "option_d": "",
+                    "option_e": "",
+                    "answer": "A"
+                }
+            ]
+        },
+         {
+            "topic": "1",
+            "question": [
+                {
+                    "question_id": "1",
+                    "question_name": "What protocol does PPP use to identify the Network layer protocol?",
+                    "option_a": "NCP",
+                    "option_b": "",
+                    "option_c": "",
+                    "option_d": "",
+                    "option_e": "",
+                    "answer": "A"
+                },
+                {
+                    "question_id": "2",
+                    "question_name": "What protocol does PPP use to identify the Network layer protocol?",
+                    "option_a": "NCP",
+                    "option_b": "",
+                    "option_c": "",
+                    "option_d": "",
+                    "option_e": "",
+                    "answer": "A"
+                }
+            ]
+         }
+    ]
+}

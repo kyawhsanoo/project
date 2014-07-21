@@ -1,0 +1,61 @@
+{
+   "questions" :
+            [
+               {
+                                  "question_id":"01",
+                                  "question_name":"A receiving host has failed to receive all of the segments that it should acknowledge. What can the host do to improve the reliability of this
+                                                                                     communication session?",
+                                  "option_a":"Send a different source port number.",
+                                  "option_b":"Restart the virtual circuit.",
+                                  "option_c":"Decrease the sequence number.",
+                                  "option_d":"Decrease the window size.",
+                                  "option_e":"None of these",
+                                  "answer":"A"
+
+               },
+               {
+                                 "question_id":"02",
+                                  "question_name":"When a station sends a transmission to the MAC address ff:ff:ff:ff:ff:ff, what type of transmission is it?",
+                                  "option_a":"Unicast",
+                                  "option_b":"Multicast",
+                                  "option_c":" Anycast",
+                                  "option_d":"Broadcast",
+                                  "option_e":" ",
+                                  "answer":"B"
+
+
+               },
+               {
+                                  "question_id":"03",
+                                  "question_name":"The RSTP provides which new port role?",
+                                  "option_a":"Disabled",
+                                  "option_b":"Enabled",
+                                  "option_c":"Discarding",
+                                  "option_d":"Forewarding",
+                                  "option_e":"Either Discarding or Forewarding",
+                                  "answer":"B"
+               },
+               {
+                                 "question_id":"04",
+                                 "question_name":"What does the command routerA(config)#line cons 0 allow you to perform next?",
+                                 "option_a":"Set the Telnet password.",
+                              	  "option_b":"Shut down the router.",
+                              	  "option_c":"Set your console password.",
+                              	  "option_d":"Disable console connections.",
+                              	  "option_e":"None Of these",
+                              	  "answer":"B"
+                              },
+                              {
+                                   "question_id":"05",
+                                   "question_name":"How long is an IPv6 address?",
+                                   "option_a":"32 bit",
+                                   "option_b":"128 bytes",
+                                   "option_c":"64 bit",
+                                   "option_d":"128 bit",
+                                   "option_e":"",
+                                   "answer":"B"
+                              }
+
+            ]
+
+}
